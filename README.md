@@ -19,7 +19,7 @@
 
 ```bash
 git clone https://github.com/Dockstage/calculator2.git
-cd repository
+cd calculator2
 ```
 
 ## Использование
