@@ -18,7 +18,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/твой_аккаунт/repository.git
+git clone https://github.com/Dockstage/calculator2.git
 cd repository
 ```
 
