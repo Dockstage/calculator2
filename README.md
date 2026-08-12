@@ -13,9 +13,9 @@
 
 - Python 3.x
 
-## Установка
-
 Дополнительные зависимости не требуются — используется только стандартная библиотека Python.
+
+## Установка
 
 ```bash
 git clone https://github.com/твой_аккаунт/repository.git
@@ -37,11 +37,14 @@ python calculator.py
 
 И выведет результат вычисления.
 
-### Пример работыm
+### Пример работы
+
+```
 enter your first number: 10
 enter arithmetic operation like +,-,*,/: +
 enter your second number: 5
 the sum of 10 + 5 are 15
+```
 
 ## Обработка ошибок
 
@@ -50,4 +53,4 @@ the sum of 10 + 5 are 15
 
 ## Лицензия
 
-MIT
+Проект распространяется под лицензией MIT — подробности в файле [LICENSE](LICENSE).
